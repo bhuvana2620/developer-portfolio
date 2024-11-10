@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "My name's Bhuvaneswari Kudaravalli. I'm a Cloud and Data enthusiast based in Portland, OR, USA.",
+    description2: "Currently pursuing a Master of Science in Computer Science at Portland State University, I have a strong academic foundation with a Bachelor of Technology in Computer Science from Jawaharlal Nehru Technological University, where I graduated with a 4.0 GPA. My interests lie at the intersection of cloud technology and data engineering, where I strive to understand and optimize complex data systems. With experience as a Big Data Engineer and an Associate Consultant, I have honed my skills in designing efficient data pipelines, automating processes, and developing insightful data visualizations. I thrive in collaborative environments, valuing teamwork as a means to tackle challenges and enhance operational efficiency. My eagerness to learn drives my continuous growth in the dynamic tech landscape, and I am committed to leveraging my knowledge and skills to create solutions that lead to positive change.",
     image: 2
 }

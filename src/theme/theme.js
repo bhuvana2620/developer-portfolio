@@ -72,22 +72,44 @@ export const bwThemeLight = {
     expimg: expBlack,
     contactsimg: contactsBlack
 }
+export const gwThemeDark = {
+    type: 'dark',
+    primary: '#4B5320',           // Army green base color
+    primary400: '#6B8E23',        // Lighter army green for highlights
+    primary600: '#3A4A15',        // Darker army green
+    primary80: '#4B5320cc',       // 80% opacity army green
+    primary50: '#4B532080',       // 50% opacity army green
+    primary30: '#4B53204d',       // 30% opacity army green
+    secondary: '#1C1C1C',         // Dark gray-black for contrast
+    secondary70: '#0E0E0E',     // 70% opacity black
+    secondary50: '#0A0A0A',     // 50% opacity black
+    tertiary: '#F0F0E8',          // Off-white for text and accents
+    tertiary80: '#F0F0E8cc',      // 80% opacity off-white
+    tertiary70: '#F0F0E8b3',      // 70% opacity off-white
+    tertiary50: '#F0F0E880',      // 50% opacity off-white
+    aboutimg1: greenThemeboy,
+    aboutimg2: greenThemegirl,
+    eduimg: eduGreen,
+    expimg: expGreen,
+    contactsimg: contactsGreen
+}
+
 export const bwThemeDark = {
     type: 'dark',
-    primary: '#B6B6B6',
-    primary400: '#B6B6B6',
-    primary600: '#B6B6B6',
-    primary80: '#B6B6B6cc',
-    primary50: '#B6B6B680',
-    primary30: '#B6B6B64d',
-    secondary: '#212121',
-    secondary70: '#212121b3',
-    secondary50: '#21212180',
-    tertiary: '#eaeaea',
-    tertiary80: '#eaeaeacc',
-    tertiary70: '#eaeaeab3',
-    tertiary50: '#eaeaea80',
-    aboutimg1: bwThemeboy,
+    primary: '#4B5320',           // Army green (primary color)
+    primary400: '#4B5320',        // Consistent army green shade
+    primary600: '#364A1B',        // Darker army green
+    primary80: '#4B5320cc',       // Semi-transparent army green
+    primary50: '#4B532080',       // 50% transparency
+    primary30: '#4B53204d',       // 30% transparency
+    secondary: '#1B1B1B',         // Black for contrast
+    secondary70: '#1B1B1Bb3',     // 70% black
+    secondary50: '#1B1B1B80',     // 50% black
+    tertiary: '#3C403D',          // Lighter greenish-gray for accents
+    tertiary80: '#3C403Dcc',      // 80% opacity greenish-gray
+    tertiary70: '#3C403Db3',      // 70% opacity
+    tertiary50: '#3C403D80',      // 50% opacity
+    aboutimg1: bwThemeboy,        // Assuming image variables remain the same
     aboutimg2: bwThemegirl,
     eduimg: eduBlack,
     expimg: expBlack,
